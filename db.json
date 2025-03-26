@@ -1,213 +1,276 @@
 {
-    "competitions": [
-      { "id": 1, "name": "World Cup" },
-      { "id": 2, "name": "Premier League" },
-      { "id": 3, "name": "La Liga" },
-      { "id": 4, "name": "Bundesliga" },
-      { "id": 5, "name": "Ligue 1" },
-      { "id": 6, "name": "Champions League" }
-    ],
-    "questions": [
-
-      { "id": 1, "competition": "World Cup", "difficulty": "Easy", "question": "Which country won the 2018 FIFA World Cup?", "options": ["Brazil", "France", "Germany", "Argentina"], "answer": "France" },
-      { "id": 2, "competition": "World Cup", "difficulty": "Easy", "question": "Who is the top scorer in World Cup history?", "options": ["Pele", "Ronaldo", "Miroslav Klose", "Lionel Messi"], "answer": "Miroslav Klose" },
-      { "id": 3, "competition": "World Cup", "difficulty": "Easy", "question": "Which country hosted the 2014 FIFA World Cup?", "options": ["Brazil", "Germany", "South Africa", "Russia"], "answer": "Brazil" },
-      { "id": 4, "competition": "World Cup", "difficulty": "Easy", "question": "How many times has Brazil won the FIFA World Cup?", "options": ["3", "4", "5", "6"], "answer": "5" },
-      { "id": 5, "competition": "World Cup", "difficulty": "Easy", "question": "Who scored the fastest World Cup hat-trick (8 minutes)?", "options": ["László Kiss (Hungary)", "Miroslav Klose (Germany)", "Gabriel Batistuta (Argentina)", "Thomas Müller (Germany)"], "answer": "László Kiss (Hungary)" },
-      { "id": 6, "competition": "World Cup", "difficulty": "Easy", "question": "Which player has the most World Cup assists?", "options": ["Lionel Messi", "Pelé", "Diego Maradona", "Thomas Müller"], "answer": "Lionel Messi" },
-      { "id": 7, "competition": "World Cup", "difficulty": "Easy", "question": "Who is the youngest player to score in a World Cup final?", "options": ["Pele (17)", "Kylian Mbappé (19)", "Michael Owen (18)", "Lionel Messi (21)"], "answer": "Pele (17)" },
-      { "id": 8, "competition": "World Cup", "difficulty": "Easy", "question": "Which goalkeeper has the most World Cup clean sheets?", "options": ["Manuel Neuer", "Gianluigi Buffon", "Iker Casillas", "Peter Shilton"], "answer": "Peter Shilton" },
-      { "id": 9, "competition": "World Cup", "difficulty": "Easy", "question": "Who scored the 'Hand of God' goal in 1986?", "options": ["Diego Maradona", "Lionel Messi", "Gary Lineker", "Zinedine Zidane"], "answer": "Diego Maradona" },
-      { "id": 10, "competition": "World Cup", "difficulty": "Easy", "question": "Which player has the most World Cup appearances?", "options": ["Lionel Messi", "Lothar Matthäus", "Cristiano Ronaldo", "Miroslav Klose"], "answer": "Lothar Matthäus" },
-      { "id": 11, "competition": "World Cup", "difficulty": "Easy", "question": "Who is the only player to win 3 World Cups?", "options": ["Pele", "Maradona", "Messi", "Ronaldo"], "answer": "Pele" },
-      { "id": 12, "competition": "World Cup", "difficulty": "Easy", "question": "Which player scored the fastest World Cup goal (11 seconds)?", "options": ["Hakan Şükür", "Clint Dempsey", "Bryan Robson", "Václav Mašek"], "answer": "Hakan Şükür" },
-      { "id": 13, "competition": "World Cup", "difficulty": "Easy", "question": "Who has the most World Cup goals for Argentina?", "options": ["Lionel Messi", "Gabriel Batistuta", "Diego Maradona", "Sergio Agüero"], "answer": "Lionel Messi" },
-      { "id": 14, "competition": "World Cup", "difficulty": "Easy", "question": "Which player has the most World Cup yellow cards?", "options": ["Cafu", "Zinedine Zidane", "Rafael Márquez", "Sergio Ramos"], "answer": "Cafu" },
-      { "id": 15, "competition": "World Cup", "difficulty": "Easy", "question": "Who scored the first World Cup Golden Goal?", "options": ["Oliver Bierhoff", "Laurent Blanc", "Davor Šuker", "David Trezeguet"], "answer": "Laurent Blanc" },
-  
-    
-      { "id": 16, "competition": "World Cup", "difficulty": "Medium", "question": "Which player was the first to score in two World Cup finals?", "options": ["Pelé", "Vavá", "Zinedine Zidane", "Kylian Mbappé"], "answer": "Vavá" },
-      { "id": 17, "competition": "World Cup", "difficulty": "Medium", "question": "Who is the only player to score a hat-trick in a World Cup final?", "options": ["Geoff Hurst", "Just Fontaine", "Gerd Müller", "Pelé"], "answer": "Geoff Hurst" },
-      { "id": 18, "competition": "World Cup", "difficulty": "Medium", "question": "Which player has the most World Cup penalties scored?", "options": ["Cristiano Ronaldo", "Lionel Messi", "Miroslav Klose", "Thomas Müller"], "answer": "Cristiano Ronaldo" },
-      { "id": 19, "competition": "World Cup", "difficulty": "Medium", "question": "Who is the only goalkeeper to score in a World Cup?", "options": ["José Luis Chilavert", "Manuel Neuer", "René Higuita", "Rogerio Ceni"], "answer": "José Luis Chilavert" },
-      { "id": 20, "competition": "World Cup", "difficulty": "Medium", "question": "Which player has the most World Cup assists in a single tournament?", "options": ["Diego Maradona (1986)", "Lionel Messi (2022)", "Pelé (1970)", "Thomas Müller (2014)"], "answer": "Diego Maradona (1986)" },
-      { "id": 21, "competition": "World Cup", "difficulty": "Medium", "question": "Who is the only player to win the Golden Ball twice?", "options": ["Lionel Messi", "Diego Maradona", "Ronaldo", "Zinedine Zidane"], "answer": "Lionel Messi" },
-      { "id": 22, "competition": "World Cup", "difficulty": "Medium", "question": "Which player has the most World Cup red cards?", "options": ["Zinedine Zidane", "Rigobert Song", "Claudio Caniggia", "Luis Suárez"], "answer": "Rigobert Song" },
-      { "id": 23, "competition": "World Cup", "difficulty": "Medium", "question": "Who scored the latest goal in World Cup history (121st minute)?", "options": ["Alessandro Del Piero", "David Trezeguet", "Mario Götze", "Andrés Iniesta"], "answer": "Mario Götze" },
-      { "id": 24, "competition": "World Cup", "difficulty": "Medium", "question": "Which player has the most World Cup goals without scoring in open play?", "options": ["James Rodríguez", "David Beckham", "Miroslav Klose", "Thomas Müller"], "answer": "David Beckham" },
-      { "id": 25, "competition": "World Cup", "difficulty": "Medium", "question": "Who is the only player to score in 4 different World Cups?", "options": ["Pelé", "Miroslav Klose", "Cristiano Ronaldo", "Lionel Messi"], "answer": "Pelé" },
-      { "id": 26, "competition": "World Cup", "difficulty": "Medium", "question": "Which player has the most World Cup goals from outside the box?", "options": ["David Beckham", "James Rodríguez", "Xherdan Shaqiri", "Diego Forlán"], "answer": "James Rodríguez" },
-      { "id": 27, "competition": "World Cup", "difficulty": "Medium", "question": "Who is the only player to score in every knockout round of a single World Cup?", "options": ["Ronaldo (2002)", "Miroslav Klose (2006)", "James Rodríguez (2014)", "Lionel Messi (2022)"], "answer": "James Rodríguez (2014)" },
-      { "id": 28, "competition": "World Cup", "difficulty": "Medium", "question": "Which player has the most World Cup goals as a substitute?", "options": ["Miroslav Klose", "Thomas Müller", "Denis Cheryshev", "André Schürrle"], "answer": "Denis Cheryshev" },
-      { "id": 29, "competition": "World Cup", "difficulty": "Medium", "question": "Who is the only player to score a World Cup goal with both feet and his head in a single match?", "options": ["Ronaldo", "Miroslav Klose", "Lionel Messi", "Harry Kane"], "answer": "Miroslav Klose" },
-      { "id": 30, "competition": "World Cup", "difficulty": "Medium", "question": "Which player has the most World Cup goals without winning the tournament?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Thomas Müller", "James Rodríguez"], "answer": "Thomas Müller" },
-
-      { "id": 31, "competition": "World Cup", "difficulty": "Hard", "question": "Who is the only player to score a World Cup goal for two different nations?", "options": ["Robert Prosinečki", "Ivan Rakitić", "Luka Modrić", "Davor Šuker"], "answer": "Robert Prosinečki" },
-      { "id": 32, "competition": "World Cup", "difficulty": "Hard", "question": "Which player has the most World Cup goals from penalties?", "options": ["Cristiano Ronaldo", "Lionel Messi", "Miroslav Klose", "Thomas Müller"], "answer": "Cristiano Ronaldo" },
-      { "id": 33, "competition": "World Cup", "difficulty": "Hard", "question": "Who is the only player to score a World Cup goal in the 1st, 15th, 30th, 45th, 60th, 75th, and 90th minute?", "options": ["Pelé", "Miroslav Klose", "Lionel Messi", "No player has done this"], "answer": "No player has done this" },
-      { "id": 34, "competition": "World Cup", "difficulty": "Hard", "question": "Which player has the most World Cup goals without scoring in the group stage?", "options": ["James Rodríguez", "David Beckham", "Thomas Müller", "Miroslav Klose"], "answer": "James Rodríguez" },
-      { "id": 35, "competition": "World Cup", "difficulty": "Hard", "question": "Who is the only player to score a World Cup goal in the 1st, 15th, 30th, 45th, 60th, 75th, and 90th minute?", "options": ["Pelé", "Miroslav Klose", "Lionel Messi", "No player has done this"], "answer": "No player has done this" },
-      { "id": 36, "competition": "World Cup", "difficulty": "Hard", "question": "Which player has the most World Cup goals without scoring in the group stage?", "options": ["James Rodríguez", "David Beckham", "Thomas Müller", "Miroslav Klose"], "answer": "James Rodríguez" },
-      { "id": 37, "competition": "World Cup", "difficulty": "Hard", "question": "Who is the only player to score a World Cup goal in the 1st, 15th, 30th, 45th, 60th, 75th, and 90th minute?", "options": ["Pelé", "Miroslav Klose", "Lionel Messi", "No player has done this"], "answer": "No player has done this" },
-      { "id": 38, "competition": "World Cup", "difficulty": "Hard", "question": "Which player has the most World Cup goals without scoring in the group stage?", "options": ["James Rodríguez", "David Beckham", "Thomas Müller", "Miroslav Klose"], "answer": "James Rodríguez" },
-      { "id": 39, "competition": "World Cup", "difficulty": "Hard", "question": "Who is the only player to score a World Cup goal in the 1st, 15th, 30th, 45th, 60th, 75th, and 90th minute?", "options": ["Pelé", "Miroslav Klose", "Lionel Messi", "No player has done this"], "answer": "No player has done this" },
-      { "id": 40, "competition": "World Cup", "difficulty": "Hard", "question": "Which player has the most World Cup goals without scoring in the group stage?", "options": ["James Rodríguez", "David Beckham", "Thomas Müller", "Miroslav Klose"], "answer": "James Rodríguez" },
-      { "id": 41, "competition": "World Cup", "difficulty": "Hard", "question": "Who is the only player to score a World Cup goal in the 1st, 15th, 30th, 45th, 60th, 75th, and 90th minute?", "options": ["Pelé", "Miroslav Klose", "Lionel Messi", "No player has done this"], "answer": "No player has done this" },
-      { "id": 42, "competition": "World Cup", "difficulty": "Hard", "question": "Which player has the most World Cup goals without scoring in the group stage?", "options": ["James Rodríguez", "David Beckham", "Thomas Müller", "Miroslav Klose"], "answer": "James Rodríguez" },
-      { "id": 43, "competition": "World Cup", "difficulty": "Hard", "question": "Who is the only player to score a World Cup goal in the 1st, 15th, 30th, 45th, 60th, 75th, and 90th minute?", "options": ["Pelé", "Miroslav Klose", "Lionel Messi", "No player has done this"], "answer": "No player has done this" },
-      { "id": 44, "competition": "World Cup", "difficulty": "Hard", "question": "Which player has the most World Cup goals without scoring in the group stage?", "options": ["James Rodríguez", "David Beckham", "Thomas Müller", "Miroslav Klose"], "answer": "James Rodríguez" },
-      { "id": 45, "competition": "World Cup", "difficulty": "Hard", "question": "Who is the only player to score a World Cup goal in the 1st, 15th, 30th, 45th, 60th, 75th, and 90th minute?", "options": ["Pelé", "Miroslav Klose", "Lionel Messi", "No player has done this"], "answer": "No player has done this" },
-
-      { "id": 46, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League goals in history?", "options": ["Alan Shearer", "Wayne Rooney", "Harry Kane", "Sergio Agüero"], "answer": "Alan Shearer" },
-      { "id": 47, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most assists in Premier League history?", "options": ["Ryan Giggs", "Cesc Fàbregas", "Kevin De Bruyne", "Frank Lampard"], "answer": "Ryan Giggs" },
-      { "id": 48, "competition": "Premier League", "difficulty": "Easy", "question": "Who scored the fastest Premier League hat-trick (2 minutes 56 seconds)?", "options": ["Sadio Mané", "Robbie Fowler", "Sergio Agüero", "Thierry Henry"], "answer": "Sadio Mané" },
-      { "id": 49, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League clean sheets?", "options": ["Petr Čech", "David Seaman", "Edwin van der Sar", "Joe Hart"], "answer": "Petr Čech" },
-      { "id": 50, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League Player of the Month awards?", "options": ["Steven Gerrard", "Harry Kane", "Sergio Agüero", "Cristiano Ronaldo"], "answer": "Sergio Agüero" },
-      { "id": 51, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League Golden Boots?", "options": ["Thierry Henry", "Alan Shearer", "Harry Kane", "Mohamed Salah"], "answer": "Thierry Henry" },
-      { "id": 52, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League assists in a single season?", "options": ["Kevin De Bruyne", "Thierry Henry", "Frank Lampard", "Mesut Özil"], "answer": "Kevin De Bruyne" },
-      { "id": 53, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League goals in a single season?", "options": ["Mohamed Salah", "Alan Shearer", "Andy Cole", "Erling Haaland"], "answer": "Erling Haaland" },
-      { "id": 54, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League hat-tricks?", "options": ["Alan Shearer", "Sergio Agüero", "Robbie Fowler", "Thierry Henry"], "answer": "Sergio Agüero" },
-      { "id": 55, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League appearances?", "options": ["Gareth Barry", "Ryan Giggs", "Frank Lampard", "James Milner"], "answer": "Gareth Barry" },
-      { "id": 56, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League red cards?", "options": ["Patrick Vieira", "Roy Keane", "Duncan Ferguson", "Richard Dunne"], "answer": "Richard Dunne" },
-      { "id": 57, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League goals from outside the box?", "options": ["David Beckham", "Steven Gerrard", "Frank Lampard", "Cristiano Ronaldo"], "answer": "Frank Lampard" },
-      { "id": 58, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League assists from set-pieces?", "options": ["David Beckham", "Kevin De Bruyne", "Frank Lampard", "James Ward-Prowse"], "answer": "David Beckham" },
-      { "id": 59, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League goals as a substitute?", "options": ["Jermain Defoe", "Olivier Giroud", "Edin Džeko", "Javier Hernández"], "answer": "Jermain Defoe" },
-      { "id": 60, "competition": "Premier League", "difficulty": "Easy", "question": "Who has the most Premier League goals without scoring a penalty?", "options": ["Emile Heskey", "Gabriel Agbonlahor", "Kevin Davies", "James Milner"], "answer": "Emile Heskey" },
-  
-      { "id": 61, "competition": "Premier League", "difficulty": "Medium", "question": "Who is the only player to score a Premier League hat-trick on his debut?", "options": ["Fabrizio Ravanelli", "Alvaro Morata", "Sergio Agüero", "Dimitar Berbatov"], "answer": "Fabrizio Ravanelli" },
-      { "id": 62, "competition": "Premier League", "difficulty": "Medium", "question": "Who has the most Premier League assists in a single match?", "options": ["Cesc Fàbregas", "Mesut Özil", "Kevin De Bruyne", "Dennis Bergkamp"], "answer": "Cesc Fàbregas" },
-      { "id": 63, "competition": "Premier League", "difficulty": "Medium", "question": "Who is the only player to score a Premier League goal with his first touch?", "options": ["Robbie Fowler", "Jermain Defoe", "Danny Welbeck", "Sadio Mané"], "answer": "Robbie Fowler" },
-      { "id": 64, "competition": "Premier League", "difficulty": "Medium", "question": "Who has the most Premier League goals in a calendar year?", "options": ["Mohamed Salah", "Harry Kane", "Alan Shearer", "Thierry Henry"], "answer": "Harry Kane" },
-      { "id": 65, "competition": "Premier League", "difficulty": "Medium", "question": "Who is the only player to score a Premier League goal in every minute of a match?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 66, "competition": "Premier League", "difficulty": "Medium", "question": "Who has the most Premier League goals without scoring a header?", "options": ["Jermain Defoe", "Raheem Sterling", "Lionel Messi", "Cristiano Ronaldo"], "answer": "Jermain Defoe" },
-      { "id": 67, "competition": "Premier League", "difficulty": "Medium", "question": "Who is the only player to score a Premier League goal with his weaker foot in a single season?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 68, "competition": "Premier League", "difficulty": "Medium", "question": "Who has the most Premier League goals from direct free-kicks?", "options": ["David Beckham", "Cristiano Ronaldo", "James Ward-Prowse", "Thierry Henry"], "answer": "David Beckham" },
-      { "id": 69, "competition": "Premier League", "difficulty": "Medium", "question": "Who is the only player to score a Premier League goal with his first touch in a match?", "options": ["Robbie Fowler", "Jermain Defoe", "Danny Welbeck", "Sadio Mané"], "answer": "Robbie Fowler" },
-      { "id": 70, "competition": "Premier League", "difficulty": "Medium", "question": "Who has the most Premier League goals in a calendar month?", "options": ["Harry Kane", "Mohamed Salah", "Alan Shearer", "Thierry Henry"], "answer": "Harry Kane" },
-      { "id": 71, "competition": "Premier League", "difficulty": "Medium", "question": "Who is the only player to score a Premier League goal in every minute of a match?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 72, "competition": "Premier League", "difficulty": "Medium", "question": "Who has the most Premier League goals without scoring a header?", "options": ["Jermain Defoe", "Raheem Sterling", "Lionel Messi", "Cristiano Ronaldo"], "answer": "Jermain Defoe" },
-      { "id": 73, "competition": "Premier League", "difficulty": "Medium", "question": "Who is the only player to score a Premier League goal with his weaker foot in a single season?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 74, "competition": "Premier League", "difficulty": "Medium", "question": "Who has the most Premier League goals from direct free-kicks?", "options": ["David Beckham", "Cristiano Ronaldo", "James Ward-Prowse", "Thierry Henry"], "answer": "David Beckham" },
-      { "id": 75, "competition": "Premier League", "difficulty": "Medium", "question": "Who is the only player to score a Premier League goal with his first touch in a match?", "options": ["Robbie Fowler", "Jermain Defoe", "Danny Welbeck", "Sadio Mané"], "answer": "Robbie Fowler" },
-
-      { "id": 76, "competition": "Premier League", "difficulty": "Hard", "question": "Who is the only player to score a Premier League goal in every minute of a match?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 77, "competition": "Premier League", "difficulty": "Hard", "question": "Who has the most Premier League goals without scoring a header?", "options": ["Jermain Defoe", "Raheem Sterling", "Lionel Messi", "Cristiano Ronaldo"], "answer": "Jermain Defoe" },
-      { "id": 78, "competition": "Premier League", "difficulty": "Hard", "question": "Who is the only player to score a Premier League goal with his weaker foot in a single season?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 79, "competition": "Premier League", "difficulty": "Hard", "question": "Who has the most Premier League goals from direct free-kicks?", "options": ["David Beckham", "Cristiano Ronaldo", "James Ward-Prowse", "Thierry Henry"], "answer": "David Beckham" },
-      { "id": 80, "competition": "Premier League", "difficulty": "Hard", "question": "Who is the only player to score a Premier League goal with his first touch in a match?", "options": ["Robbie Fowler", "Jermain Defoe", "Danny Welbeck", "Sadio Mané"], "answer": "Robbie Fowler" },
-      { "id": 81, "competition": "Premier League", "difficulty": "Hard", "question": "Who has the most Premier League goals in a calendar month?", "options": ["Harry Kane", "Mohamed Salah", "Alan Shearer", "Thierry Henry"], "answer": "Harry Kane" },
-      { "id": 82, "competition": "Premier League", "difficulty": "Hard", "question": "Who is the only player to score a Premier League goal in every minute of a match?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 83, "competition": "Premier League", "difficulty": "Hard", "question": "Who has the most Premier League goals without scoring a header?", "options": ["Jermain Defoe", "Raheem Sterling", "Lionel Messi", "Cristiano Ronaldo"], "answer": "Jermain Defoe" },
-      { "id": 84, "competition": "Premier League", "difficulty": "Hard", "question": "Who is the only player to score a Premier League goal with his weaker foot in a single season?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 85, "competition": "Premier League", "difficulty": "Hard", "question": "Who has the most Premier League goals from direct free-kicks?", "options": ["David Beckham", "Cristiano Ronaldo", "James Ward-Prowse", "Thierry Henry"], "answer": "David Beckham" },
-      { "id": 86, "competition": "Premier League", "difficulty": "Hard", "question": "Who is the only player to score a Premier League goal with his first touch in a match?", "options": ["Robbie Fowler", "Jermain Defoe", "Danny Welbeck", "Sadio Mané"], "answer": "Robbie Fowler" },
-      { "id": 87, "competition": "Premier League", "difficulty": "Hard", "question": "Who has the most Premier League goals in a calendar month?", "options": ["Harry Kane", "Mohamed Salah", "Alan Shearer", "Thierry Henry"], "answer": "Harry Kane" },
-      { "id": 88, "competition": "Premier League", "difficulty": "Hard", "question": "Who is the only player to score a Premier League goal in every minute of a match?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-      { "id": 89, "competition": "Premier League", "difficulty": "Hard", "question": "Who has the most Premier League goals without scoring a header?", "options": ["Jermain Defoe", "Raheem Sterling", "Lionel Messi", "Cristiano Ronaldo"], "answer": "Jermain Defoe" },
-      { "id": 90, "competition": "Premier League", "difficulty": "Hard", "question": "Who is the only player to score a Premier League goal with his weaker foot in a single season?", "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"], "answer": "No player has done this" },
-  
-
-      { "id": 91, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga goals in history?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Raúl"], "answer": "Lionel Messi" },
-      { "id": 92, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga assists in history?", "options": ["Lionel Messi", "Xavi", "Andrés Iniesta", "Cristiano Ronaldo"], "answer": "Lionel Messi" },
-      { "id": 93, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga hat-tricks in history?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Alfredo Di Stéfano"], "answer": "Lionel Messi" },
-      { "id": 94, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga clean sheets in history?", "options": ["Iker Casillas", "Victor Valdés", "Andoni Zubizarreta", "Jan Oblak"], "answer": "Andoni Zubizarreta" },
-      { "id": 95, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga Player of the Month awards?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Antoine Griezmann", "Karim Benzema"], "answer": "Lionel Messi" },
-      { "id": 96, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga Golden Boots?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"], "answer": "Lionel Messi" },
-      { "id": 97, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga assists in a single season?", "options": ["Lionel Messi", "Xavi", "Andrés Iniesta", "Cristiano Ronaldo"], "answer": "Lionel Messi" },
-      { "id": 98, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga goals in a single season?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"], "answer": "Lionel Messi" },
-      { "id": 99, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga hat-tricks in a single season?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"], "answer": "Lionel Messi" },
-      { "id": 100, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga appearances?", "options": ["Andoni Zubizarreta", "Raúl", "Iker Casillas", "Xavi"], "answer": "Andoni Zubizarreta" },
-      { "id": 101, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga red cards?", "options": ["Sergio Ramos", "Fernando Hierro", "Xavi", "Carles Puyol"], "answer": "Sergio Ramos" },
-      { "id": 102, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga goals from outside the box?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Beckham"], "answer": "Lionel Messi" },
-      { "id": 103, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga assists from set-pieces?", "options": ["Lionel Messi", "David Beckham", "Xavi", "Andrés Iniesta"], "answer": "Lionel Messi" },
-      { "id": 104, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga goals as a substitute?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Fernando Morientes", "Javier Saviola"], "answer": "Fernando Morientes" },
-      { "id": 105, "competition": "La Liga", "difficulty": "Easy", "question": "Who has the most La Liga goals without scoring a penalty?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Raúl", "David Villa"], "answer": "Raúl" },
-  
-
-      { "id": 106, "competition": "La Liga", "difficulty": "Medium", "question": "Who is the only player to score a La Liga hat-trick on his debut?", "options": ["Ronaldo Nazário", "Lionel Messi", "Cristiano Ronaldo", "Diego Forlán"], "answer": "Ronaldo Nazário" },
-      { "id": 107, "competition": "La Liga", "difficulty": "Medium", "question": "Who has the most La Liga assists in a single match?", "options": ["Lionel Messi", "Xavi", "Andrés Iniesta", "Cristiano Ronaldo"], "answer": "Lionel Messi" },
-      { "id": 108, "competition": "La Liga", "difficulty": "Medium", "question": "Who is the only player to score a La Liga goal with his first touch?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Villa"], "answer": "Lionel Messi" },
-      { "id": 109, "competition": "La Liga", "difficulty": "Medium", "question": "Who has the most La Liga goals in a calendar year?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"], "answer": "Lionel Messi" },
-      { "id": 110, "competition": "La Liga", "difficulty": "Medium", "question": "Who is the only player to score a La Liga goal in every minute of a match?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 111, "competition": "La Liga", "difficulty": "Medium", "question": "Who has the most La Liga goals without scoring a header?", "options": ["Lionel Messi", "Cristiano Ronaldo", "David Silva", "Andrés Iniesta"], "answer": "Lionel Messi" },
-      { "id": 112, "competition": "La Liga", "difficulty": "Medium", "question": "Who is the only player to score a La Liga goal with his weaker foot in a single season?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 113, "competition": "La Liga", "difficulty": "Medium", "question": "Who has the most La Liga goals from direct free-kicks?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Beckham"], "answer": "Lionel Messi" },
-      { "id": 114, "competition": "La Liga", "difficulty": "Medium", "question": "Who is the only player to score a La Liga goal with his first touch in a match?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Villa"], "answer": "Lionel Messi" },
-      { "id": 115, "competition": "La Liga", "difficulty": "Medium", "question": "Who has the most La Liga goals in a calendar month?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"], "answer": "Lionel Messi" },
-      { "id": 116, "competition": "La Liga", "difficulty": "Medium", "question": "Who is the only player to score a La Liga goal in every minute of a match?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 117, "competition": "La Liga", "difficulty": "Medium", "question": "Who has the most La Liga goals without scoring a header?", "options": ["Lionel Messi", "Cristiano Ronaldo", "David Silva", "Andrés Iniesta"], "answer": "Lionel Messi" },
-      { "id": 118, "competition": "La Liga", "difficulty": "Medium", "question": "Who is the only player to score a La Liga goal with his weaker foot in a single season?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 119, "competition": "La Liga", "difficulty": "Medium", "question": "Who has the most La Liga goals from direct free-kicks?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Beckham"], "answer": "Lionel Messi" },
-      { "id": 120, "competition": "La Liga", "difficulty": "Medium", "question": "Who is the only player to score a La Liga goal with his first touch in a match?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Villa"], "answer": "Lionel Messi" },
-  
-
-      { "id": 121, "competition": "La Liga", "difficulty": "Hard", "question": "Who is the only player to score a La Liga goal in every minute of a match?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 122, "competition": "La Liga", "difficulty": "Hard", "question": "Who has the most La Liga goals without scoring a header?", "options": ["Lionel Messi", "Cristiano Ronaldo", "David Silva", "Andrés Iniesta"], "answer": "Lionel Messi" },
-      { "id": 123, "competition": "La Liga", "difficulty": "Hard", "question": "Who is the only player to score a La Liga goal with his weaker foot in a single season?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 124, "competition": "La Liga", "difficulty": "Hard", "question": "Who has the most La Liga goals from direct free-kicks?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Beckham"], "answer": "Lionel Messi" },
-      { "id": 125, "competition": "La Liga", "difficulty": "Hard", "question": "Who is the only player to score a La Liga goal with his first touch in a match?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Villa"], "answer": "Lionel Messi" },
-      { "id": 126, "competition": "La Liga", "difficulty": "Hard", "question": "Who has the most La Liga goals in a calendar month?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"], "answer": "Lionel Messi" },
-      { "id": 127, "competition": "La Liga", "difficulty": "Hard", "question": "Who is the only player to score a La Liga goal in every minute of a match?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 128, "competition": "La Liga", "difficulty": "Hard", "question": "Who has the most La Liga goals without scoring a header?", "options": ["Lionel Messi", "Cristiano Ronaldo", "David Silva", "Andrés Iniesta"], "answer": "Lionel Messi" },
-      { "id": 129, "competition": "La Liga", "difficulty": "Hard", "question": "Who is the only player to score a La Liga goal with his weaker foot in a single season?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 130, "competition": "La Liga", "difficulty": "Hard", "question": "Who has the most La Liga goals from direct free-kicks?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Beckham"], "answer": "Lionel Messi" },
-      { "id": 131, "competition": "La Liga", "difficulty": "Hard", "question": "Who is the only player to score a La Liga goal with his first touch in a match?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Villa"], "answer": "Lionel Messi" },
-      { "id": 132, "competition": "La Liga", "difficulty": "Hard", "question": "Who has the most La Liga goals in a calendar month?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"], "answer": "Lionel Messi" },
-      { "id": 133, "competition": "La Liga", "difficulty": "Hard", "question": "Who is the only player to score a La Liga goal in every minute of a match?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      { "id": 134, "competition": "La Liga", "difficulty": "Hard", "question": "Who has the most La Liga goals without scoring a header?", "options": ["Lionel Messi", "Cristiano Ronaldo", "David Silva", "Andrés Iniesta"], "answer": "Lionel Messi" },
-      { "id": 135, "competition": "La Liga", "difficulty": "Hard", "question": "Who is the only player to score a La Liga goal with his weaker foot in a single season?", "options": ["No player has done this", "Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra"], "answer": "No player has done this" },
-      
-
-      { "id": 136, "competition": "Champions League", "difficulty": "Easy", "question": "Which club has won the most Champions League titles?", "options": ["Real Madrid", "AC Milan", "Bayern Munich", "Liverpool"], "answer": "Real Madrid" },
-      { "id": 137, "competition": "Champions League", "difficulty": "Easy", "question": "Who is the all-time top scorer in the Champions League?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Raúl"], "answer": "Cristiano Ronaldo" },
-      { "id": 138, "competition": "Champions League", "difficulty": "Easy", "question": "Which player has the most assists in Champions League history?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Ryan Giggs", "Xavi"], "answer": "Lionel Messi" },
-      { "id": 139, "competition": "Champions League", "difficulty": "Easy", "question": "Which team won the first Champions League in 1955/56?", "options": ["Real Madrid", "Benfica", "AC Milan", "Barcelona"], "answer": "Real Madrid" },
-      { "id": 140, "competition": "Champions League", "difficulty": "Easy", "question": "Who scored the fastest hat-trick in Champions League history (6 minutes)?", "options": ["Robert Lewandowski", "Mario Gómez", "Bafétimbi Gomis", "Sadio Mané"], "answer": "Robert Lewandowski" },
-      { "id": 141, "competition": "Champions League", "difficulty": "Easy", "question": "Which goalkeeper has the most Champions League clean sheets?", "options": ["Iker Casillas", "Gianluigi Buffon", "Manuel Neuer", "Edwin van der Sar"], "answer": "Iker Casillas" },
-      { "id": 142, "competition": "Champions League", "difficulty": "Easy", "question": "Who is the youngest player to score in a Champions League match?", "options": ["Ansu Fati", "Kylian Mbappé", "Peter Ofori-Quaye", "Bojan Krkić"], "answer": "Peter Ofori-Quaye" },
-      { "id": 143, "competition": "Champions League", "difficulty": "Easy", "question": "Which team won the 2022/23 Champions League?", "options": ["Manchester City", "Real Madrid", "Bayern Munich", "Inter Milan"], "answer": "Manchester City" },
-      { "id": 144, "competition": "Champions League", "difficulty": "Easy", "question": "Who has the most Champions League appearances?", "options": ["Cristiano Ronaldo", "Iker Casillas", "Xavi", "Ryan Giggs"], "answer": "Cristiano Ronaldo" },
-      { "id": 145, "competition": "Champions League", "difficulty": "Easy", "question": "Which player has scored in the most consecutive Champions League matches?", "options": ["Cristiano Ronaldo", "Robert Lewandowski", "Ruud van Nistelrooy", "Lionel Messi"], "answer": "Ruud van Nistelrooy" },
-      { "id": 146, "competition": "Champions League", "difficulty": "Easy", "question": "Who is the only player to win the Champions League with three different clubs?", "options": ["Clarence Seedorf", "Samuel Eto'o", "Xabi Alonso", "Zlatan Ibrahimović"], "answer": "Clarence Seedorf" },
-      { "id": 147, "competition": "Champions League", "difficulty": "Easy", "question": "Which team has lost the most Champions League finals?", "options": ["Juventus", "Bayern Munich", "Atlético Madrid", "Barcelona"], "answer": "Juventus" },
-      { "id": 148, "competition": "Champions League", "difficulty": "Easy", "question": "Who scored the winning goal in the 1999 Champions League final?", "options": ["Ole Gunnar Solskjær", "Teddy Sheringham", "David Beckham", "Ryan Giggs"], "answer": "Ole Gunnar Solskjær" },
-      { "id": 149, "competition": "Champions League", "difficulty": "Easy", "question": "Which player has the most Champions League titles?", "options": ["Paco Gento", "Cristiano Ronaldo", "Lionel Messi", "Sergio Ramos"], "answer": "Paco Gento" },
-      { "id": 150, "competition": "Champions League", "difficulty": "Easy", "question": "Who was the first player to score 100 Champions League goals?", "options": ["Cristiano Ronaldo", "Lionel Messi", "Raúl", "Robert Lewandowski"], "answer": "Cristiano Ronaldo" },
-    
-      { "id": 151, "competition": "Champions League", "difficulty": "Medium", "question": "Which player has the most assists in a single Champions League season?", "options": ["Neymar", "James Rodríguez", "Xavi", "Lionel Messi"], "answer": "Neymar" },
-      { "id": 152, "competition": "Champions League", "difficulty": "Medium", "question": "Who is the only player to score a hat-trick in a Champions League final?", "options": ["Ferenc Puskás", "Alfredo Di Stéfano", "Cristiano Ronaldo", "Lionel Messi"], "answer": "Ferenc Puskás" },
-      { "id": 153, "competition": "Champions League", "difficulty": "Medium", "question": "Which team came back from 4-0 down to win a Champions League knockout tie?", "options": ["Barcelona", "Liverpool", "Deportivo La Coruña", "Manchester United"], "answer": "Deportivo La Coruña" },
-      { "id": 154, "competition": "Champions League", "difficulty": "Medium", "question": "Who is the only goalkeeper to save two penalties in a Champions League final shootout?", "options": ["Jerzy Dudek", "Petr Čech", "Manuel Neuer", "Iker Casillas"], "answer": "Jerzy Dudek" },
-      { "id": 155, "competition": "Champions League", "difficulty": "Medium", "question": "Which player has scored the most free-kick goals in Champions League history?", "options": ["Cristiano Ronaldo", "Juninho Pernambucano", "Lionel Messi", "David Beckham"], "answer": "Lionel Messi" },
-      { "id": 156, "competition": "Champions League", "difficulty": "Medium", "question": "Who is the only player to score for and against the same team in a Champions League final?", "options": ["Samuel Eto'o", "Zlatan Ibrahimović", "Fernando Morientes", "Clarence Seedorf"], "answer": "Samuel Eto'o" },
-      { "id": 157, "competition": "Champions League", "difficulty": "Medium", "question": "Which player has the most goals in a single Champions League campaign?", "options": ["Cristiano Ronaldo", "Robert Lewandowski", "Lionel Messi", "Ruud van Nistelrooy"], "answer": "Cristiano Ronaldo" },
-      { "id": 158, "competition": "Champions League", "difficulty": "Medium", "question": "Who is the only manager to win the Champions League with three different clubs?", "options": ["Carlo Ancelotti", "José Mourinho", "Pep Guardiola", "Zinedine Zidane"], "answer": "Carlo Ancelotti" },
-      { "id": 159, "competition": "Champions League", "difficulty": "Medium", "question": "Which player has the most Champions League goals from outside the box?", "options": ["Cristiano Ronaldo", "Steven Gerrard", "Lionel Messi", "Xabi Alonso"], "answer": "Cristiano Ronaldo" },
-      { "id": 160, "competition": "Champions League", "difficulty": "Medium", "question": "Who scored the latest goal in Champions League history (121st minute)?", "options": ["Sergio Agüero", "Andrés Iniesta", "Mario Götze", "Diego Forlán"], "answer": "Mario Götze" },
-      { "id": 161, "competition": "Champions League", "difficulty": "Medium", "question": "Which team holds the record for most consecutive Champions League wins?", "options": ["Bayern Munich", "Real Madrid", "Barcelona", "Ajax"], "answer": "Bayern Munich" },
-      { "id": 162, "competition": "Champions League", "difficulty": "Medium", "question": "Who is the only player to score in 11 consecutive Champions League matches?", "options": ["Cristiano Ronaldo", "Robert Lewandowski", "Ruud van Nistelrooy", "Lionel Messi"], "answer": "Cristiano Ronaldo" },
-      { "id": 163, "competition": "Champions League", "difficulty": "Medium", "question": "Which player has the most Champions League assists in a single match?", "options": ["Lionel Messi", "Xavi", "Andrés Iniesta", "Neymar"], "answer": "Neymar" },
-      { "id": 164, "competition": "Champions League", "difficulty": "Medium", "question": "Who is the only player to win the Champions League with two clubs in consecutive years?", "options": ["Samuel Eto'o", "Xabi Alonso", "Clarence Seedorf", "Zlatan Ibrahimović"], "answer": "Samuel Eto'o" },
-      { "id": 165, "competition": "Champions League", "difficulty": "Medium", "question": "Which player has the most Champions League goals as a substitute?", "options": ["Javier Hernández", "Ole Gunnar Solskjær", "Thomas Müller", "Robert Lewandowski"], "answer": "Javier Hernández" },
-      
-      { "id": 166, "competition": "Champions League", "difficulty": "Hard", "question": "Which player scored the first-ever Champions League goal?", "options": ["Ferenc Puskás", "Alfredo Di Stéfano", "Lucien Muller", "Héctor Rial"], "answer": "Lucien Muller" },
-    { "id": 167, "competition": "Champions League", "difficulty": "Hard", "question": "Who is the only player to score a Champions League hat-trick against his former club?", "options": ["Cristiano Ronaldo", "Zlatan Ibrahimović", "Robert Lewandowski", "Luis Suárez"], "answer": "Cristiano Ronaldo" },
-    { "id": 168, "competition": "Champions League", "difficulty": "Hard", "question": "Which team won the Champions League without winning their domestic league that season?", "options": ["Chelsea (2012)", "Liverpool (2005)", "Real Madrid (1998)", "Manchester United (1999)"], "answer": "Chelsea (2012)" },
-    { "id": 169, "competition": "Champions League", "difficulty": "Hard", "question": "Who is the only player to score in every round of a Champions League campaign (group stage to final)?", "options": ["Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "Ruud van Nistelrooy"], "answer": "Cristiano Ronaldo" },
-    { "id": 170, "competition": "Champions League", "difficulty": "Hard", "question": "Which player has the most Champions League goals without ever winning the tournament?", "options": ["Robert Lewandowski", "Zlatan Ibrahimović", "Sergio Agüero", "Harry Kane"], "answer": "Robert Lewandowski" },
-    { "id": 171, "competition": "Champions League", "difficulty": "Hard", "question": "Who is the only player to score a Champions League goal with his weaker foot, head, and strong foot in a single match?", "options": ["Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "No player has done this"], "answer": "No player has done this" },
-    { "id": 172, "competition": "Champions League", "difficulty": "Hard", "question": "Which player has the most Champions League goals from outside the box in a single season?", "options": ["Cristiano Ronaldo", "Steven Gerrard", "Lionel Messi", "Xabi Alonso"], "answer": "Cristiano Ronaldo" },
-    { "id": 173, "competition": "Champions League", "difficulty": "Hard", "question": "Who is the only player to score a Champions League goal in the 1st, 15th, 30th, 45th, 60th, 75th, and 90th minute?", "options": ["Cristiano Ronaldo", "Lionel Messi", "No player has done this", "Robert Lewandowski"], "answer": "No player has done this" },
-    { "id": 174, "competition": "Champions League", "difficulty": "Hard", "question": "Which player has the most Champions League goals without scoring a penalty?", "options": ["Raúl", "Lionel Messi", "Robert Lewandowski", "Ruud van Nistelrooy"], "answer": "Raúl" },
-    { "id": 175, "competition": "Champions League", "difficulty": "Hard", "question": "Who is the only player to score a Champions League goal with his first touch in a match?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "No player has done this"], "answer": "No player has done this" },
-    { "id": 176, "competition": "Champions League", "difficulty": "Hard", "question": "Which player has the most Champions League goals in a calendar year?", "options": ["Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "Ruud van Nistelrooy"], "answer": "Cristiano Ronaldo" },
-    { "id": 177, "competition": "Champions League", "difficulty": "Hard", "question": "Who is the only player to score a Champions League goal in every minute of a match?", "options": ["No player has done this", "Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski"], "answer": "No player has done this" },
-    { "id": 178, "competition": "Champions League", "difficulty": "Hard", "question": "Which player has the most Champions League goals without scoring a header?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Raúl"], "answer": "Lionel Messi" },
-    { "id": 179, "competition": "Champions League", "difficulty": "Hard", "question": "Who is the only player to score a Champions League goal with his weaker foot in a single season?", "options": ["No player has done this", "Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski"], "answer": "No player has done this" },
-    { "id": 180, "competition": "Champions League", "difficulty": "Hard", "question": "Which player has the most Champions League goals from direct free-kicks in a single season?", "options": ["Lionel Messi", "Cristiano Ronaldo", "Juninho Pernambucano", "David Beckham"], "answer": "Lionel Messi" }
-    ],
-  "scores": [
-    { "id": 1, "username": "Player1", "score": 10, "date": "2023-10-05T14:30:00Z" },
-    { "id": 2, "username": "Player2", "score": 15, "date": "2023-10-06T09:15:00Z" }
+  "questions": [
+    {
+      "id": 1,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League goals in history?",
+      "options": ["Alan Shearer", "Wayne Rooney", "Harry Kane", "Sergio Agüero"],
+      "answer": "Alan Shearer"
+    },
+    {
+      "id": 2,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most assists in Premier League history?",
+      "options": ["Ryan Giggs", "Cesc Fàbregas", "Kevin De Bruyne", "Frank Lampard"],
+      "answer": "Ryan Giggs"
+    },
+    {
+      "id": 3,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who scored the fastest Premier League hat-trick (2 minutes 56 seconds)?",
+      "options": ["Sadio Mané", "Robbie Fowler", "Sergio Agüero", "Thierry Henry"],
+      "answer": "Sadio Mané"
+    },
+    {
+      "id": 4,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League clean sheets?",
+      "options": ["Petr Čech", "David Seaman", "Edwin van der Sar", "Joe Hart"],
+      "answer": "Petr Čech"
+    },
+    {
+      "id": 5,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League Player of the Month awards?",
+      "options": ["Steven Gerrard", "Harry Kane", "Sergio Agüero", "Cristiano Ronaldo"],
+      "answer": "Sergio Agüero"
+    },
+    {
+      "id": 6,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League Golden Boots?",
+      "options": ["Thierry Henry", "Alan Shearer", "Harry Kane", "Mohamed Salah"],
+      "answer": "Thierry Henry"
+    },
+    {
+      "id": 7,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League assists in a single season?",
+      "options": ["Kevin De Bruyne", "Thierry Henry", "Frank Lampard", "Mesut Özil"],
+      "answer": "Kevin De Bruyne"
+    },
+    {
+      "id": 8,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League goals in a single season?",
+      "options": ["Mohamed Salah", "Alan Shearer", "Andy Cole", "Erling Haaland"],
+      "answer": "Erling Haaland"
+    },
+    {
+      "id": 9,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League hat-tricks?",
+      "options": ["Alan Shearer", "Sergio Agüero", "Robbie Fowler", "Thierry Henry"],
+      "answer": "Sergio Agüero"
+    },
+    {
+      "id": 10,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League appearances?",
+      "options": ["Gareth Barry", "Ryan Giggs", "Frank Lampard", "James Milner"],
+      "answer": "Gareth Barry"
+    },
+    {
+      "id": 11,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League red cards?",
+      "options": ["Patrick Vieira", "Roy Keane", "Duncan Ferguson", "Richard Dunne"],
+      "answer": "Richard Dunne"
+    },
+    {
+      "id": 12,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League goals from outside the box?",
+      "options": ["David Beckham", "Steven Gerrard", "Frank Lampard", "Cristiano Ronaldo"],
+      "answer": "Frank Lampard"
+    },
+    {
+      "id": 13,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League assists from set-pieces?",
+      "options": ["David Beckham", "Kevin De Bruyne", "Frank Lampard", "James Ward-Prowse"],
+      "answer": "David Beckham"
+    },
+    {
+      "id": 14,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League goals as a substitute?",
+      "options": ["Jermain Defoe", "Olivier Giroud", "Edin Džeko", "Javier Hernández"],
+      "answer": "Jermain Defoe"
+    },
+    {
+      "id": 15,
+      "competition": "Premier League",
+      "difficulty": "Easy",
+      "question": "Who has the most Premier League goals without scoring a penalty?",
+      "options": ["Emile Heskey", "Gabriel Agbonlahor", "Kevin Davies", "James Milner"],
+      "answer": "Emile Heskey"
+    },
+    {
+      "id": 16,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score a Premier League hat-trick on his debut?",
+      "options": ["Fabrizio Ravanelli", "Alvaro Morata", "Sergio Agüero", "Dimitar Berbatov"],
+      "answer": "Fabrizio Ravanelli"
+    },
+    {
+      "id": 17,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who has the most Premier League assists in a single match?",
+      "options": ["Cesc Fàbregas", "Mesut Özil", "Kevin De Bruyne", "Dennis Bergkamp"],
+      "answer": "Cesc Fàbregas"
+    },
+    {
+      "id": 18,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score a Premier League goal with his first touch?",
+      "options": ["Robbie Fowler", "Jermain Defoe", "Danny Welbeck", "Sadio Mané"],
+      "answer": "Robbie Fowler"
+    },
+    {
+      "id": 19,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who has the most Premier League goals in a calendar year?",
+      "options": ["Mohamed Salah", "Harry Kane", "Alan Shearer", "Thierry Henry"],
+      "answer": "Harry Kane"
+    },
+    {
+      "id": 20,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score a Premier League goal in every minute of a match?",
+      "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"],
+      "answer": "No player has done this"
+    },
+    {
+      "id": 21,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who has the most Premier League goals without scoring a header?",
+      "options": ["Jermain Defoe", "Raheem Sterling", "Lionel Messi", "Cristiano Ronaldo"],
+      "answer": "Jermain Defoe"
+    },
+    {
+      "id": 22,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who has the most Premier League goals from direct free-kicks?",
+      "options": ["David Beckham", "Cristiano Ronaldo", "James Ward-Prowse", "Thierry Henry"],
+      "answer": "David Beckham"
+    },
+    {
+      "id": 23,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who has the most Premier League goals in a calendar month?",
+      "options": ["Harry Kane", "Mohamed Salah", "Alan Shearer", "Thierry Henry"],
+      "answer": "Harry Kane"
+    },
+    {
+      "id": 24,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Who is the only player to score a Premier League goal with his weaker foot in a single season?",
+      "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"],
+      "answer": "No player has done this"
+    },
+    {
+      "id": 25,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Which player holds the record for most consecutive Premier League matches scored in?",
+      "options": ["Jamie Vardy", "Ruud van Nistelrooy", "Mohamed Salah", "Thierry Henry"],
+      "answer": "Jamie Vardy"
+    },
+    {
+      "id": 26,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Who is the only goalkeeper to score a Premier League goal from open play?",
+      "options": ["Peter Schmeichel", "Alisson Becker", "Brad Friedel", "Paul Robinson"],
+      "answer": "Peter Schmeichel"
+    },
+    {
+      "id": 27,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Which club has been involved in the most Premier League 4-4 draws?",
+      "options": ["Arsenal", "Tottenham", "Liverpool", "Newcastle"],
+      "answer": "Arsenal"
+    },
+    {
+      "id": 28,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Who is the only player to win the Premier League with three different clubs?",
+      "options": ["N'Golo Kanté", "Henning Berg", "Ashley Cole", "Mark Schwarzer"],
+      "answer": "Henning Berg"
+    },
+    {
+      "id": 29,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Which player has scored the most own goals in Premier League history?",
+      "options": ["Richard Dunne", "Jamie Carragher", "Wes Brown", "Martin Skrtel"],
+      "answer": "Richard Dunne"
+    },
+    {
+      "id": 30,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Who is the only player to score a perfect Premier League hat-trick (left foot, right foot, header) in under 10 minutes?",
+      "options": ["Sadio Mané", "Robbie Fowler", "Sergio Agüero", "Jermain Defoe"],
+      "answer": "Sadio Mané"
+    },
+    {
+      "id": 31,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Which team holds the record for fewest goals scored in a Premier League season (20)?",
+      "options": ["Derby County", "Sunderland", "Huddersfield", "Sheffield United"],
+      "answer": "Derby County"
+    },
+    {
+      "id": 32,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Who is the only player to be substituted before half-time in his first three Premier League starts?",
+      "options": ["Adrian Mutu", "Afonso Alves", "Tomas Brolin", "Ali Dia"],
+      "answer": "Ali Dia"
+    },
+    {
+      "id": 33,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Which player has made the most Premier League appearances without ever being substituted?",
+      "options": ["Brad Friedel", "Gary Speed", "Frank Lampard", "John Terry"],
+      "answer": "Brad Friedel"
+    },
+    {
+      "id": 34,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Who is the only player to score a Premier League goal that was later awarded by a 'phantom goal' panel?",
+      "options": ["Frank Lampard", "Tomas Rosicky", "Pedro Mendes", "Clint Dempsey"],
+      "answer": "Pedro Mendes"
+    }
   ]
 }
