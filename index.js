@@ -1,10 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
+    
     // DOM elements
     const competitionButtons = document.querySelectorAll('.competition-btn');
     const difficultyButtons = document.querySelectorAll('.difficulty-btn');
     const container = document.getElementById('container');
-    const quizData = {
-        "questions": [] }
+    
+    const quizData = {"questions": [] }
             fetch("http://localhost:3000/questions")
             .then(response => response.json())
             .then(questions =>{
@@ -12,6 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 console.log("Questions fetched successfully", quizData.questions);
             })
             .catch(error => console.error("Error fetching questions", error));
+    
+    
     // Quiz state
     let currentQuestions = [];
     let currentQuestionIndex = 0;

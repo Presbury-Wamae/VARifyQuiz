@@ -160,4 +160,90 @@ section {
     background-color: #28a745;
     color: black;
 }
-
+.quiz-container {
+    width: 100%;
+    background-image: url("https://t4.ftcdn.net/jpg/03/13/71/81/360_F_313718186_UOU2PUeWOXuE12il7PHR3Sk5hYzkFhNa.jpg");
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    height: 1000px;
+}
+.quiz-header {
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    color: #e9ecef;
+}
+.question {
+    margin-bottom: 2rem;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.question h3 {
+    font-size: 1.3rem;
+    margin: 0;
+    color: white;
+}
+.options {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+}
+.option-btn {
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    text-decoration: solid;
+    padding: 0.8rem;
+    background-color: white;
+    padding: 20px;
+    color: #333;
+    border: 5px solid black;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+.option-btn:hover {
+    background-color: gold;
+}
+.results-container {
+    text-align: center;
+    color: blanchedalmond;
+    font-size: larger;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    height: 1000px;
+    background-image: url("https://t4.ftcdn.net/jpg/03/13/71/81/360_F_313718186_UOU2PUeWOXuE12il7PHR3Sk5hYzkFhNa.jpg");
+}
+.results-container h2 {
+    color: white;
+    margin-top: 0;
+}
+#restart-btn, #new-quiz-btn {
+    margin: 1rem;
+    padding: 0.8rem 1.5rem;
+    border-radius: 20px;
+    color: white;
+    font-weight: 400;
+    font-size: large;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    background-color: black;
+} 
+#new-quiz-btn:hover{
+    background-color: #28a745;
+    color: black;
+}  
+#restart-btn:hover {
+    background-color: #28a745;
+    color: black;
+}   

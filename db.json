@@ -13,7 +13,7 @@
       "competition": "Premier League",
       "difficulty": "Easy",
       "question": "Who has the most assists in Premier League history?",
-      "options": ["Ryan Giggs", "Cesc Fàbregas", "Kevin De Bruyne", "Frank Lampard"],
+      "options": ["Cesc Fàbregas", "Ryan Giggs", "Kevin De Bruyne", "Frank Lampard"],
       "answer": "Ryan Giggs"
     },
     {
@@ -21,7 +21,7 @@
       "competition": "Premier League",
       "difficulty": "Easy",
       "question": "Who scored the fastest Premier League hat-trick (2 minutes 56 seconds)?",
-      "options": ["Sadio Mané", "Robbie Fowler", "Sergio Agüero", "Thierry Henry"],
+      "options": ["Sergio Agüero", "Robbie Fowler", "Sadio Mané", "Thierry Henry"],
       "answer": "Sadio Mané"
     },
     {
@@ -29,7 +29,7 @@
       "competition": "Premier League",
       "difficulty": "Easy",
       "question": "Who has the most Premier League clean sheets?",
-      "options": ["Petr Čech", "David Seaman", "Edwin van der Sar", "Joe Hart"],
+      "options": ["David Seaman", "Petr Čech", "Edwin van der Sar", "Joe Hart"],
       "answer": "Petr Čech"
     },
     {
@@ -45,7 +45,7 @@
       "competition": "Premier League",
       "difficulty": "Easy",
       "question": "Who has the most Premier League Golden Boots?",
-      "options": ["Thierry Henry", "Alan Shearer", "Harry Kane", "Mohamed Salah"],
+      "options": ["Harry Kane", "Alan Shearer", "Thierry Henry", "Mohamed Salah"],
       "answer": "Thierry Henry"
     },
     {
@@ -53,7 +53,7 @@
       "competition": "Premier League",
       "difficulty": "Easy",
       "question": "Who has the most Premier League assists in a single season?",
-      "options": ["Kevin De Bruyne", "Thierry Henry", "Frank Lampard", "Mesut Özil"],
+      "options": ["Mesut Özil", "Thierry Henry", "Frank Lampard","Kevin De Bruyne" ],
       "answer": "Kevin De Bruyne"
     },
     {
@@ -101,7 +101,7 @@
       "competition": "Premier League",
       "difficulty": "Easy",
       "question": "Who has the most Premier League assists from set-pieces?",
-      "options": ["David Beckham", "Kevin De Bruyne", "Frank Lampard", "James Ward-Prowse"],
+      "options": ["Kevin De Bruyne", "David Beckham", "Frank Lampard", "James Ward-Prowse"],
       "answer": "David Beckham"
     },
     {
@@ -117,7 +117,7 @@
       "competition": "Premier League",
       "difficulty": "Easy",
       "question": "Who has the most Premier League goals without scoring a penalty?",
-      "options": ["Emile Heskey", "Gabriel Agbonlahor", "Kevin Davies", "James Milner"],
+      "options": ["Kevin Davies", "Gabriel Agbonlahor", "Emile Heskey", "James Milner"],
       "answer": "Emile Heskey"
     },
     {
@@ -125,7 +125,7 @@
       "competition": "Premier League",
       "difficulty": "Medium",
       "question": "Who is the only player to score a Premier League hat-trick on his debut?",
-      "options": ["Fabrizio Ravanelli", "Alvaro Morata", "Sergio Agüero", "Dimitar Berbatov"],
+      "options": ["Dimitar Berbatov", "Alvaro Morata", "Sergio Agüero","Fabrizio Ravanelli" ],
       "answer": "Fabrizio Ravanelli"
     },
     {
@@ -133,7 +133,7 @@
       "competition": "Premier League",
       "difficulty": "Medium",
       "question": "Who has the most Premier League assists in a single match?",
-      "options": ["Cesc Fàbregas", "Mesut Özil", "Kevin De Bruyne", "Dennis Bergkamp"],
+      "options": ["Kevin De Bruyne", "Mesut Özil", "Cesc Fàbregas", "Dennis Bergkamp"],
       "answer": "Cesc Fàbregas"
     },
     {
@@ -141,7 +141,7 @@
       "competition": "Premier League",
       "difficulty": "Medium",
       "question": "Who is the only player to score a Premier League goal with his first touch?",
-      "options": ["Robbie Fowler", "Jermain Defoe", "Danny Welbeck", "Sadio Mané"],
+      "options": ["Danny Welbeck", "Jermain Defoe", "Robbie Fowler", "Sadio Mané"],
       "answer": "Robbie Fowler"
     },
     {
@@ -157,7 +157,7 @@
       "competition": "Premier League",
       "difficulty": "Medium",
       "question": "Who is the only player to score a Premier League goal in every minute of a match?",
-      "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"],
+      "options": ["Thierry Henry", "Sergio Agüero", "No player has done this", "Alan Shearer"],
       "answer": "No player has done this"
     },
     {
@@ -165,7 +165,7 @@
       "competition": "Premier League",
       "difficulty": "Medium",
       "question": "Who has the most Premier League goals without scoring a header?",
-      "options": ["Jermain Defoe", "Raheem Sterling", "Lionel Messi", "Cristiano Ronaldo"],
+      "options": ["Cristiano Ronaldo", "Raheem Sterling", "Lionel Messi", "Jermain Defoe"],
       "answer": "Jermain Defoe"
     },
     {
@@ -173,7 +173,7 @@
       "competition": "Premier League",
       "difficulty": "Medium",
       "question": "Who has the most Premier League goals from direct free-kicks?",
-      "options": ["David Beckham", "Cristiano Ronaldo", "James Ward-Prowse", "Thierry Henry"],
+      "options": ["Cristiano Ronaldo", "David Beckham", "James Ward-Prowse", "Thierry Henry"],
       "answer": "David Beckham"
     },
     {
@@ -181,43 +181,84 @@
       "competition": "Premier League",
       "difficulty": "Medium",
       "question": "Who has the most Premier League goals in a calendar month?",
-      "options": ["Harry Kane", "Mohamed Salah", "Alan Shearer", "Thierry Henry"],
+      "options": ["Alan Shearer", "Mohamed Salah", "Harry Kane", "Thierry Henry"],
       "answer": "Harry Kane"
     },
+
     {
       "id": 24,
       "competition": "Premier League",
-      "difficulty": "Hard",
-      "question": "Who is the only player to score a Premier League goal with his weaker foot in a single season?",
-      "options": ["No player has done this", "Sergio Agüero", "Thierry Henry", "Alan Shearer"],
-      "answer": "No player has done this"
+      "difficulty": "Medium",
+      "question": "Which player has the most assists in a single Premier League season?",
+      "options": ["Kevin De Bruyne", "Thierry Henry", "Frank Lampard", "Cesc Fàbregas"],
+      "answer": "Kevin De Bruyne"
     },
     {
       "id": 25,
       "competition": "Premier League",
-      "difficulty": "Hard",
-      "question": "Which player holds the record for most consecutive Premier League matches scored in?",
-      "options": ["Jamie Vardy", "Ruud van Nistelrooy", "Mohamed Salah", "Thierry Henry"],
-      "answer": "Jamie Vardy"
+      "difficulty": "Medium",
+      "question": "Who was the first player to score 100 Premier League goals for a single club?",
+      "options": ["Wayne Rooney", "Ryan Giggs", "Frank Lampard", "Alan Shearer"],
+      "answer": "Alan Shearer"
     },
     {
       "id": 26,
       "competition": "Premier League",
-      "difficulty": "Hard",
-      "question": "Who is the only goalkeeper to score a Premier League goal from open play?",
-      "options": ["Peter Schmeichel", "Alisson Becker", "Brad Friedel", "Paul Robinson"],
-      "answer": "Peter Schmeichel"
+      "difficulty": "Medium",
+      "question": "Which goalkeeper has the most clean sheets in Premier League history?",
+      "options": ["Petr Čech", "David Seaman", "Edwin van der Sar", "David De Gea"],
+      "answer": "Petr Čech"
     },
     {
       "id": 27,
       "competition": "Premier League",
-      "difficulty": "Hard",
-      "question": "Which club has been involved in the most Premier League 4-4 draws?",
-      "options": ["Arsenal", "Tottenham", "Liverpool", "Newcastle"],
+      "difficulty": "Medium",
+      "question": "Which team went unbeaten in the 2003-04 Premier League season?",
+      "options": ["Manchester United", "Chelsea", "Arsenal", "Liverpool"],
       "answer": "Arsenal"
     },
     {
       "id": 28,
+      "competition": "Premier League",
+      "difficulty": "Medium",
+      "question": "Who is the youngest player to score a Premier League hat-trick?",
+      "options": ["Michael Owen", "Wayne Rooney", "Robbie Fowler", "Raheem Sterling"],
+      "answer": "Michael Owen"
+    },
+    {
+      "id": 29,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Who is the only player to score a Premier League goal with his weaker foot in a single season?",
+      "options": ["Alan Shearer", "Sergio Agüero", "Thierry Henry", "No player has done this"],
+      "answer": "No player has done this"
+    },
+    {
+      "id": 30,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Which player holds the record for most consecutive Premier League matches scored in?",
+      "options": ["Mohamed Salah", "Ruud van Nistelrooy", "Jamie Vardy", "Thierry Henry"],
+      "answer": "Jamie Vardy"
+    },
+    {
+      "id": 31,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Who is the only goalkeeper to score a Premier League goal from open play?",
+      "options": ["Brad Friedel", "Alisson Becker", "Peter Schmeichel", "Paul Robinson"],
+      "answer": "Peter Schmeichel"
+    },
+    {
+      "id": 32,
+      "competition": "Premier League",
+      "difficulty": "Hard",
+      "question": "Which club has been involved in the most Premier League 4-4 draws?",
+      "options": ["Liverpool" ,"Tottenham", "Arsenal", "Newcastle"],
+      "answer": "Arsenal"
+    },
+    {
+      "id": 33,
       "competition": "Premier League",
       "difficulty": "Hard",
       "question": "Who is the only player to win the Premier League with three different clubs?",
@@ -225,31 +266,31 @@
       "answer": "Henning Berg"
     },
     {
-      "id": 29,
+      "id": 34,
       "competition": "Premier League",
       "difficulty": "Hard",
       "question": "Which player has scored the most own goals in Premier League history?",
-      "options": ["Richard Dunne", "Jamie Carragher", "Wes Brown", "Martin Skrtel"],
+      "options": ["Wes Brown", "Jamie Carragher", "Richard Dunne", "Martin Skrtel"],
       "answer": "Richard Dunne"
     },
     {
-      "id": 30,
+      "id": 35,
       "competition": "Premier League",
       "difficulty": "Hard",
       "question": "Who is the only player to score a perfect Premier League hat-trick (left foot, right foot, header) in under 10 minutes?",
-      "options": ["Sadio Mané", "Robbie Fowler", "Sergio Agüero", "Jermain Defoe"],
+      "options": ["Sergio Agüero", "Robbie Fowler", "Sadio Mané", "Jermain Defoe"],
       "answer": "Sadio Mané"
     },
     {
-      "id": 31,
+      "id": 36,
       "competition": "Premier League",
       "difficulty": "Hard",
       "question": "Which team holds the record for fewest goals scored in a Premier League season (20)?",
-      "options": ["Derby County", "Sunderland", "Huddersfield", "Sheffield United"],
+      "options": ["Sunderland" , "Derby County", "Huddersfield", "Sheffield United"],
       "answer": "Derby County"
     },
     {
-      "id": 32,
+      "id": 37,
       "competition": "Premier League",
       "difficulty": "Hard",
       "question": "Who is the only player to be substituted before half-time in his first three Premier League starts?",
@@ -257,20 +298,632 @@
       "answer": "Ali Dia"
     },
     {
-      "id": 33,
+      "id": 38,
       "competition": "Premier League",
       "difficulty": "Hard",
       "question": "Which player has made the most Premier League appearances without ever being substituted?",
-      "options": ["Brad Friedel", "Gary Speed", "Frank Lampard", "John Terry"],
+      "options": ["Gary Speed", "Brad Friedel", "Frank Lampard", "John Terry"],
       "answer": "Brad Friedel"
     },
     {
-      "id": 34,
+      "id": 39,
       "competition": "Premier League",
       "difficulty": "Hard",
       "question": "Who is the only player to score a Premier League goal that was later awarded by a 'phantom goal' panel?",
       "options": ["Frank Lampard", "Tomas Rosicky", "Pedro Mendes", "Clint Dempsey"],
       "answer": "Pedro Mendes"
+    },
+
+
+    {
+      "id": 1,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Who has the most Champions League goals in history?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Karim Benzema"],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": 2,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Which team has won the most Champions League titles?",
+      "options": ["Barcelona", "Bayern Munich", "Real Madrid", "AC Milan"],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": 3,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Who scored the fastest hat-trick in Champions League history (8 minutes)?",
+      "options": ["Robert Lewandowski", "Mohamed Salah", "Karim Benzema", "Luiz Adriano"],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": 4,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Which goalkeeper has the most Champions League clean sheets?",
+      "options": ["Iker Casillas", "Manuel Neuer", "Gianluigi Buffon", "Edwin van der Sar"],
+      "answer": "Iker Casillas"
+    },
+    {
+      "id": 5,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Who has the most assists in Champions League history?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Ryan Giggs", "Xavi"],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": 6,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Which player has the most Champions League titles?",
+      "options": ["Sergio Ramos", "Cristiano Ronaldo", "Paolo Maldini", "Francisco Gento"],
+      "answer": "Francisco Gento"
+    },
+    {
+      "id": 7,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Who scored the 'La Decima'-winning goal for Real Madrid in 2014?",
+      "options": ["Gareth Bale", "Sergio Ramos", "Cristiano Ronaldo", "Ángel Di María"],
+      "answer": "Sergio Ramos"
+    },
+    {
+      "id": 8,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Which team won the Champions League in 2005 after being 3-0 down at halftime?",
+      "options": ["AC Milan", "Liverpool", "Barcelona", "Bayern Munich"],
+      "answer": "Liverpool"
+    },
+    {
+      "id": 9,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Who is the youngest player to score in a Champions League final?",
+      "options": ["Kylian Mbappé", "Patrick Kluivert", "Lionel Messi", "Marco Asensio"],
+      "answer": "Patrick Kluivert"
+    },
+    {
+      "id": 10,
+      "competition": "Champions League",
+      "difficulty": "Easy",
+      "question": "Which country has the most Champions League-winning teams?",
+      "options": ["Spain", "England", "Italy", "Germany"],
+      "answer": "Spain"
+    },
+    {
+      "id": 11,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score in two Champions League finals for different clubs?",
+      "options": ["Samuel Eto'o", "Cristiano Ronaldo", "Zlatan Ibrahimović", "Gareth Bale"],
+      "answer": "Samuel Eto'o"
+    },
+    {
+      "id": 12,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Which player has the most goals in a single Champions League season (17)?",
+      "options": ["Cristiano Ronaldo", "Robert Lewandowski", "Lionel Messi", "Karim Benzema"],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": 13,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Who scored the first-ever Champions League hat-trick?",
+      "options": ["Marco van Basten", "Ronaldo Nazário", "Faas Wilkes", "Simone Inzaghi"],
+      "answer": "Marco van Basten"
+    },
+    {
+      "id": 14,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Which team holds the record for most consecutive Champions League wins?",
+      "options": ["Bayern Munich (2020)", "Real Madrid (2016-2018)", "Barcelona (2011-2013)", "AC Milan (1989-1990)"],
+      "answer": "Real Madrid (2016-2018)"
+    },
+    {
+      "id": 15,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Who is the only goalkeeper to save two penalties in a Champions League final shootout?",
+      "options": ["Petr Čech", "Manuel Neuer", "Jerzy Dudek", "Dida"],
+      "answer": "Jerzy Dudek"
+    },
+    {
+      "id": 16,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Which player has the most Champions League assists in a single season?",
+      "options": ["Neymar", "James Milner", "Xavi", "Lionel Messi"],
+      "answer": "James Milner"
+    },
+    {
+      "id": 17,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Who is the only player to win the Champions League with three different clubs?",
+      "options": ["Clarence Seedorf", "Samuel Eto'o", "Xabi Alonso", "Zlatan Ibrahimović"],
+      "answer": "Clarence Seedorf"
+    },
+    {
+      "id": 18,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Which team was the first to retain the Champions League in its modern format?",
+      "options": ["AC Milan", "Barcelona", "Manchester United", "Real Madrid"],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": 19,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Who scored the latest goal in Champions League history (116:48)?",
+      "options": ["Sergio Agüero", "Olivier Giroud", "Cristiano Ronaldo", "Lucas Moura"],
+      "answer": "Lucas Moura"
+    },
+    {
+      "id": 20,
+      "competition": "Champions League",
+      "difficulty": "Medium",
+      "question": "Which player has the most Champions League appearances?",
+      "options": ["Iker Casillas", "Cristiano Ronaldo", "Xavi", "Ryan Giggs"],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": 21,
+      "competition": "Champions League",
+      "difficulty": "Hard",
+      "question": "Who is the only player to score a Champions League final hat-trick?",
+      "options": ["Ferenc Puskás", "Alfredo Di Stéfano", "Cristiano Ronaldo", "No player has done this"],
+      "answer": "Ferenc Puskás"
+    },
+    {
+      "id": 22,
+      "competition": "Champions League",
+      "difficulty": "Hard",
+      "question": "Which team conceded the fewest goals in a single Champions League campaign (2 in 2005-06)?",
+      "options": ["Barcelona", "Arsenal", "Chelsea", "Milan"],
+      "answer": "Arsenal"
+    },
+    {
+      "id": 23,
+      "competition": "Champions League",
+      "difficulty": "Hard",
+      "question": "Who is the only player to score a Champions League goal with his weaker foot, head, and strong foot in a single match?",
+      "options": ["Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "No player has done this"],
+      "answer": "No player has done this"
+    },
+    {
+      "id": 24,
+      "competition": "Champions League",
+      "difficulty": "Hard",
+      "question": "Which player scored the fastest goal in a Champions League final (50 seconds)?",
+      "options": ["Paolo Maldini", "Raúl", "Gareth Bale", "Mario Mandžukić"],
+      "answer": "Paolo Maldini"
+    },
+    {
+      "id": 25,
+      "competition": "Champions League",
+      "difficulty": "Hard",
+      "question": "Who is the only manager to win the Champions League with three different clubs?",
+      "options": ["Carlo Ancelotti", "José Mourinho", "Pep Guardiola", "Zinedine Zidane"],
+      "answer": "Carlo Ancelotti"
+    },
+
+
+    {
+      "id": 1,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Who has the most La Liga goals in history?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": 2,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Which team has won the most La Liga titles?",
+      "options": ["Barcelona", "Real Madrid", "Atlético Madrid", "Valencia"],
+      "answer": "Real Madrid"
+    },
+    {
+      "id": 3,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Who holds the record for most goals in a single La Liga season (50)?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": 4,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Which goalkeeper has the most clean sheets in La Liga history?",
+      "options": ["Iker Casillas", "Andoni Zubizarreta", "Victor Valdés", "Jan Oblak"],
+      "answer": "Andoni Zubizarreta"
+    },
+    {
+      "id": 5,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Who has the most assists in La Liga history?",
+      "options": ["Lionel Messi", "Xavi", "Andrés Iniesta", "Cristiano Ronaldo"],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": 6,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Which player has made the most appearances in La Liga history?",
+      "options": ["Joaquín", "Andoni Zubizarreta", "Raúl", "Lionel Messi"],
+      "answer": "Joaquín"
+    },
+    {
+      "id": 7,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Who is the youngest player to score in La Liga history?",
+      "options": ["Ansu Fati", "Lamine Yamal", "Bojan Krkić", "Iker Muniain"],
+      "answer": "Lamine Yamal"
+    },
+    {
+      "id": 8,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Which team has the longest unbeaten streak in La Liga history (43 games)?",
+      "options": ["Barcelona", "Real Madrid", "Real Sociedad", "Atlético Madrid"],
+      "answer": "Barcelona"
+    },
+    {
+      "id": 9,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Who is the only player to score 30+ goals in six consecutive La Liga seasons?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": 10,
+      "competition": "La Liga",
+      "difficulty": "Easy",
+      "question": "Which player has the most hat-tricks in La Liga history?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Alfredo Di Stéfano"],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": 11,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score in six different Clásicos in a row?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Raúl", "Luis Suárez"],
+      "answer": "Luis Suárez"
+    },
+    {
+      "id": 12,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Which player has the most goals from outside the box in La Liga history?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Ronaldinho", "David Beckham"],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": 13,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Who is the only goalkeeper to win the Zamora Trophy with three different clubs?",
+      "options": ["Jan Oblak", "Victor Valdés", "Andoni Zubizarreta", "Santiago Cañizares"],
+      "answer": "Jan Oblak"
+    },
+    {
+      "id": 14,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Which player has the most penalties scored in La Liga history?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Hugo Sánchez", "Ronald Koeman"],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": 15,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score 40+ goals in two different La Liga seasons?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sánchez"],
+      "answer": "Cristiano Ronaldo"
+    },
+    {
+      "id": 16,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Which team has the most relegations from La Liga?",
+      "options": ["Real Betis", "Deportivo La Coruña", "Real Zaragoza", "Málaga"],
+      "answer": "Real Betis"
+    },
+    {
+      "id": 17,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Who is the only player to win the Pichichi Trophy with three different clubs?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Hugo Sánchez", "Diego Forlán"],
+      "answer": "Hugo Sánchez"
+    },
+    {
+      "id": 18,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Which player has the most own goals in La Liga history?",
+      "options": ["Fernando Hierro", "Carles Puyol", "Sergio Ramos", "Miquel Soler"],
+      "answer": "Fernando Hierro"
+    },
+    {
+      "id": 19,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score a hat-trick in his first Clásico?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Romário", "Gary Lineker"],
+      "answer": "Gary Lineker"
+    },
+    {
+      "id": 20,
+      "competition": "La Liga",
+      "difficulty": "Medium",
+      "question": "Which player has the most red cards in La Liga history?",
+      "options": ["Sergio Ramos", "Fernando Hierro", "Xavi Aguado", "Carlos Marchena"],
+      "answer": "Sergio Ramos"
+    },
+    {
+      "id": 21,
+      "competition": "La Liga",
+      "difficulty": "Hard",
+      "question": "Who is the only player to score a perfect hat-trick (left foot, right foot, header) in a Clásico?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Iván Zamorano", "No player has done this"],
+      "answer": "Iván Zamorano"
+    },
+    {
+      "id": 22,
+      "competition": "La Liga",
+      "difficulty": "Hard",
+      "question": "Which team holds the record for fewest goals conceded in a La Liga season (18)?",
+      "options": ["Atlético Madrid (2015-16)", "Deportivo La Coruña (1993-94)", "Real Madrid (1987-88)", "Barcelona (2012-13)"],
+      "answer": "Deportivo La Coruña (1993-94)"
+    },
+    {
+      "id": 23,
+      "competition": "La Liga",
+      "difficulty": "Hard",
+      "question": "Who is the only player to score a hat-trick in his first, second, and third La Liga matches?",
+      "options": ["Lionel Messi", "Cristiano Ronaldo", "Bebeto", "No player has done this"],
+      "answer": "No player has done this"
+    },
+    {
+      "id": 24,
+      "competition": "La Liga",
+      "difficulty": "Hard",
+      "question": "Which player scored the fastest goal in La Liga history (7.42 seconds)?",
+      "options": ["Joseba Llorente", "Dani Güiza", "Christian Stuani", "Karim Benzema"],
+      "answer": "Joseba Llorente"
+    },
+    {
+      "id": 25,
+      "competition": "La Liga",
+      "difficulty": "Hard",
+      "question": "Who is the only manager to win La Liga with three different clubs?",
+      "options": ["Johan Cruyff", "Pep Guardiola", "Carlo Ancelotti", "Ernesto Valverde"],
+      "answer": "Ernesto Valverde"
+    },
+    {
+      "id": 1,
+      "competition": "Bundesliga",
+      "difficulty": "Easy",
+      "question": "Who has the most Bundesliga goals in history?",
+      "options": ["Gerd Müller", "Robert Lewandowski", "Klaus Fischer", "Jupp Heynckes"],
+      "answer": "Gerd Müller"
+    },
+    {
+      "id": 2,
+      "competition": "Bundesliga",
+      "difficulty": "Easy",
+      "question": "Which team has won the most Bundesliga titles?",
+      "options": ["Bayern Munich", "Borussia Dortmund", "Hamburg", "Borussia Mönchengladbach"],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": 3,
+      "competition": "Bundesliga",
+      "difficulty": "Easy",
+      "question": "Who holds the record for most goals in a single Bundesliga season (41)?",
+      "options": ["Gerd Müller", "Robert Lewandowski", "Pierre-Emerick Aubameyang", "Lothar Matthäus"],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": 4,
+      "competition": "Bundesliga",
+      "difficulty": "Easy",
+      "question": "Which goalkeeper has the most clean sheets in Bundesliga history?",
+      "options": ["Manuel Neuer", "Oliver Kahn", "Sepp Maier", "Jens Lehmann"],
+      "answer": "Manuel Neuer"
+    },
+    {
+      "id": 5,
+      "competition": "Bundesliga",
+      "difficulty": "Easy",
+      "question": "Who is the youngest player to score in the Bundesliga?",
+      "options": ["Youssoufa Moukoko", "Florian Wirtz", "Lukas Podolski", "Nuri Şahin"],
+      "answer": "Youssoufa Moukoko"
+    },
+    {
+      "id": 6,
+      "competition": "Bundesliga",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score 5 goals in a single Bundesliga match twice?",
+      "options": ["Gerd Müller", "Robert Lewandowski", "Claudio Pizarro", "Jupp Heynckes"],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": 7,
+      "competition": "Bundesliga",
+      "difficulty": "Medium",
+      "question": "Which team holds the record for most consecutive Bundesliga wins (19)?",
+      "options": ["Bayern Munich", "Borussia Dortmund", "Hamburg", "Wolfsburg"],
+      "answer": "Bayern Munich"
+    },
+    {
+      "id": 8,
+      "competition": "Bundesliga",
+      "difficulty": "Medium",
+      "question": "Who scored the fastest Bundesliga hat-trick (3 minutes 19 seconds)?",
+      "options": ["Robert Lewandowski", "Pierre-Emerick Aubameyang", "Mario Gómez", "Gerd Müller"],
+      "answer": "Robert Lewandowski"
+    },
+    {
+      "id": 9,
+      "competition": "Bundesliga",
+      "difficulty": "Hard",
+      "question": "Which player has the most own goals in Bundesliga history?",
+      "options": ["Manuel Friedrich", "Niklas Süle", "Mats Hummels", "Lúcio"],
+      "answer": "Manuel Friedrich"
+    },
+    {
+      "id": 10,
+      "competition": "Bundesliga",
+      "difficulty": "Hard",
+      "question": "Who is the only player to win the Bundesliga with three different clubs?",
+      "options": ["Robert Lewandowski", "Claudio Pizarro", "Arjen Robben", "Franck Ribéry"],
+      "answer": "Claudio Pizarro"
+    },
+    {
+      "id": 1,
+      "competition": "Serie A",
+      "difficulty": "Easy",
+      "question": "Who has the most Serie A goals in history?",
+      "options": ["Silvio Piola", "Francesco Totti", "Gunnar Nordahl", "Roberto Baggio"],
+      "answer": "Silvio Piola"
+    },
+    {
+      "id": 2,
+      "competition": "Serie A",
+      "difficulty": "Easy",
+      "question": "Which team has won the most Serie A titles?",
+      "options": ["Juventus", "AC Milan", "Inter Milan", "AS Roma"],
+      "answer": "Juventus"
+    },
+    {
+      "id": 3,
+      "competition": "Serie A",
+      "difficulty": "Easy",
+      "question": "Who holds the record for most goals in a single Serie A season (36)?",
+      "options": ["Gonzalo Higuaín", "Ciro Immobile", "Gunnar Nordahl", "Antonio Valentín Angelillo"],
+      "answer": "Gonzalo Higuaín"
+    },
+    {
+      "id": 4,
+      "competition": "Serie A",
+      "difficulty": "Easy",
+      "question": "Which goalkeeper has the most clean sheets in Serie A history?",
+      "options": ["Gianluigi Buffon", "Walter Zenga", "Dino Zoff", "Samir Handanovič"],
+      "answer": "Gianluigi Buffon"
+    },
+    {
+      "id": 5,
+      "competition": "Serie A",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score in 11 consecutive Serie A matches?",
+      "options": ["Gabriel Batistuta", "Cristiano Ronaldo", "Andriy Shevchenko", "Zlatan Ibrahimović"],
+      "answer": "Gabriel Batistuta"
+    },
+    {
+      "id": 6,
+      "competition": "Serie A",
+      "difficulty": "Medium",
+      "question": "Which team went unbeaten in the 2011-12 Serie A season?",
+      "options": ["Juventus", "AC Milan", "Inter Milan", "Napoli"],
+      "answer": "Juventus"
+    },
+    {
+      "id": 7,
+      "competition": "Serie A",
+      "difficulty": "Hard",
+      "question": "Who is the only player to win the Capocannoniere with three different clubs?",
+      "options": ["Giuseppe Signori", "Antonio Di Natale", "Luca Toni", "Roberto Baggio"],
+      "answer": "Giuseppe Signori"
+    },
+    {
+      "id": 8,
+      "competition": "Serie A",
+      "difficulty": "Hard",
+      "question": "Which player scored the fastest goal in Serie A history (8 seconds)?",
+      "options": ["Paolo Poggi", "Rafael Leão", "Francesco Totti", "Alexis Sánchez"],
+      "answer": "Paolo Poggi"
+    },
+    {
+      "id": 1,
+      "competition": "World Cup",
+      "difficulty": "Easy",
+      "question": "Who has the most World Cup goals in history?",
+      "options": ["Miroslav Klose", "Ronaldo", "Gerd Müller", "Just Fontaine"],
+      "answer": "Miroslav Klose"
+    },
+    {
+      "id": 2,
+      "competition": "World Cup",
+      "difficulty": "Easy",
+      "question": "Which country has won the most World Cup titles?",
+      "options": ["Brazil", "Germany", "Italy", "Argentina"],
+      "answer": "Brazil"
+    },
+    {
+      "id": 3,
+      "competition": "World Cup",
+      "difficulty": "Easy",
+      "question": "Who scored the fastest hat-trick in World Cup history (8 minutes)?",
+      "options": ["László Kiss", "Ernst Wilimowski", "Gerd Müller", "Just Fontaine"],
+      "answer": "László Kiss"
+    },
+    {
+      "id": 4,
+      "competition": "World Cup",
+      "difficulty": "Medium",
+      "question": "Which player has the most World Cup assists?",
+      "options": ["Pelé", "Diego Maradona", "Lionel Messi", "Thomas Müller"],
+      "answer": "Lionel Messi"
+    },
+    {
+      "id": 5,
+      "competition": "World Cup",
+      "difficulty": "Medium",
+      "question": "Who is the only player to score in four different World Cup finals?",
+      "options": ["Pelé", "Zinedine Zidane", "Ronaldo", "No player has done this"],
+      "answer": "Pelé"
+    },
+    {
+      "id": 6,
+      "competition": "World Cup",
+      "difficulty": "Hard",
+      "question": "Which team holds the record for most goals scored in a single World Cup tournament (27)?",
+      "options": ["Hungary (1954)", "Brazil (1950)", "France (1958)", "Germany (2014)"],
+      "answer": "Hungary (1954)"
+    },
+    {
+      "id": 7,
+      "competition": "World Cup",
+      "difficulty": "Hard",
+      "question": "Who is the only goalkeeper to save four penalties in a World Cup shootout?",
+      "options": ["Danijel Subašić", "Sergio Goycochea", "Ricardo", "Keylor Navas"],
+      "answer": "Danijel Subašić"
+    },
+    {
+      "id": 8,
+      "competition": "World Cup",
+      "difficulty": "Hard",
+      "question": "Which player scored the fastest goal in World Cup history (11 seconds)?",
+      "options": ["Hakan Şükür", "Bryan Robson", "Clint Dempsey", "Václav Mašek"],
+      "answer": "Hakan Şükür"
     }
   ]
 }
