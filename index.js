@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const container = document.getElementById('container');
     
     const quizData = {"questions": [] }
-            fetch("http://localhost:3000/questions")
+            fetch("https://varifyquiz.onrender.com")
             .then(response => response.json())
             .then(questions =>{
                 quizData.questions = questions;
