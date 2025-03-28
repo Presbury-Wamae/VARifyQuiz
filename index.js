@@ -157,11 +157,25 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showResults() {
-        container.innerHTML = `
+        let percentage = Math.round((score / currentQuestions.length) * 100);
+        let message = '';
+
+        // Determine message based on score
+        if (percentage === 100) {
+            message = "🎉 You are a Genius! 🏆";
+        } else if (percentage >= 70) {
+            message = "🔥 Great Job! You really know your football! ⚽";
+        } else if (percentage >= 50) {
+            message = "👍 Good Effort! Keep practicing! 💪";
+        } else {
+            message = "😢 Try your luck next time! Don't give up! 💡";
+        } 
+         container.innerHTML = `
             <section class="results-container">
                 <h2>Quiz Completed!</h2>
                 <p>Your final score: ${score} out of ${currentQuestions.length}</p>
-                <p>Percentage: ${Math.round((score / currentQuestions.length) * 100)}%</p>
+                <p>Percentage: ${percentage}%</p>
+                <h3>${message}</h3>
                 <button id="restart-btn">Restart Quiz</button>
                 <button id="new-quiz-btn">New Quiz</button>
             </section>
