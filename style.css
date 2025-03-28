@@ -9,6 +9,8 @@ body {
 }
 header {
     background-color: #000000; 
+    position: fixed;
+    width: 98%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -20,6 +22,7 @@ header {
 }
 #container {
     display: flex;
+    padding-top: 3%;
     justify-content: space-between;
     align-items: flex-start;
     background-image: url("https://images.unsplash.com/photo-1529900748604-07564a03e7a6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
@@ -325,4 +328,10 @@ input:focus, textarea:focus {
     margin-top: 10px;
     font-size: 16px;
     color: #28a745;
+}
+#about-container{
+    width: 50%;
+    padding: 7%;
+    background-color: #222;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
