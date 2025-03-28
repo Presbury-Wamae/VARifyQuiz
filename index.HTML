@@ -14,7 +14,8 @@
         </div>
         <nav>
             <a href="#container" id="Home">Home</a>
-            <a href="#" id="About">About</a>
+            <a href="#about-section" id="About">About</a>
+            <a href="#contact-left">Contact</a>
         </nav>
     </header>
         <main id="container">
@@ -42,8 +43,37 @@
                     <button class="difficulty-btn">Hard</button>
                 </div>
             </section>
-            <section></section>
+
         </main>
-        <script src="index.js"></script>
+        <section id="about-section">
+            <h1 id="Header">About</h1><br>
+                <p>
+                    Welcome to VARify Quiz – the ultimate interactive football trivia experience! <br> 
+                    Whether you're a casual fan or a football fanatic, our quiz challenges your knowledge across various categories, including the Premier League, World Cup, and Player Stats.
+                    With multiple difficulty levels, a real-time scoring system, and a dynamic question randomizer, every game feels fresh and exciting. <br> 
+                    Test your skills, compete with friends, and climb the leaderboard to prove you're the ultimate football guru.
+                    Think you know football? Let’s put your knowledge to the test – and may the best fan win!
+                </p>   
+
+        </section>
+
+        <div class="row">
+        <div id="contact-left">
+                <h1 class="subtitle">Contact Us</h1><br>
+                <form name="submit-to-google-sheet" id="contact-form">
+                    <input type="text" name="Name" placeholder="Your Name" required>
+                    <input type="email" name="Email" placeholder="Your Email" required>
+                    <textarea name="Message" rows="7" placeholder="Your Message" required></textarea>
+                    <button type="submit" class="btn btn-submit">Submit</button>
+                </form>
+                <span id="msg"></span>
+            </div>
+        </div>
+        
+
+        <div class="copyright">
+            <p>Copyright &#x24B8 Presbury. All Rights Reserved <i class="fa-solid fa-registered"></i></p>
+          </div>
+<script src="index.js"></script>
 </body>
 </html>
