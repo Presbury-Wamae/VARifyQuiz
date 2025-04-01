@@ -189,7 +189,8 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         document.getElementById('new-quiz-btn').addEventListener('click', () => {
-            location.reload(); // Simple way to reset, could be improved
+            // Simple way to reset, could be improved
+            location.reload(); 
         });
     }
 
